@@ -1,4 +1,8 @@
 hello-world
 ===========
 
-Hai
+Hai,
+
+to any future coder.
+
+// Better now. (:
